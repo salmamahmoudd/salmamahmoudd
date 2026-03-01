@@ -49,10 +49,10 @@ I'm a Front-End Developer passionate about creating <b>interactive, clean, and r
   </a>
 
   <a href="https://salmamahmoudd.github.io/Restaurant/" title="Restaurant">
-    <img src="https://img.shields.io/badge/Restaurant-Live-blueviolet?style=for-the-badge&logo=markdown&logoColor=white" />
+    <img src="https://img.shields.io/badge/Restaurant-Live-blueviolet?style=for-the-badge&logo=Restaurant&logoColor=white" />
   </a>
 
   <a href="https://salmamahmoudd.github.io/Flower-Shop/" title="Flower Shop">
-    <img src="https://img.shields.io/badge/Flower%20Shop-Live-orange?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flower%20Shop-Live-orange?style=for-the-badge&logo=flower&logoColor=white" />
   </a>
 </p>
