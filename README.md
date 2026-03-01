@@ -7,10 +7,6 @@
 I'm a Front-End Developer passionate about creating <b>interactive, clean, and responsive websites</b> using Angular, TypeScript, and modern web technologies.
 </p>
 
-- 👩‍💻 I’m currently working on *Angular & Front-End development*  
-- 📚 I’m learning *UI/UX design and advanced Angular features*  
-- 🎯 Future Goals: Build *amazing web applications* and expand my *full-stack skills*
-
 <p align="center">
 <a href="https://www.linkedin.com/in/salma-mahmoud-520b222a4" title="LinkedIn">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
