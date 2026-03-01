@@ -48,11 +48,11 @@ I'm a Front-End Developer passionate about creating <b>interactive, clean, and r
     <img src="https://img.shields.io/badge/E--Commerce-Live-green?style=for-the-badge&logo=shopify&logoColor=white" />
   </a>
 
-  <a href="https://salmamahmoudd.github.io/Writing-Is-My-Passion/" title="Writing Is My Passion">
+  <a href="https://salmamahmoudd.github.io/Restaurant/" title="Restaurant">
     <img src="https://img.shields.io/badge/Writing%20Is%20My%20Passion-Live-blueviolet?style=for-the-badge&logo=markdown&logoColor=white" />
   </a>
 
-  <a href="https://salmamahmoudd.github.io/-Fun-Brainy/" title="Fun Brainy">
+  <a href="https://salmamahmoudd.github.io/Flower-Shop/" title="Flower Shop">
     <img src="https://img.shields.io/badge/Fun%20Brainy-Live-orange?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
