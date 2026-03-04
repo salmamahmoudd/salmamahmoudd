@@ -45,14 +45,14 @@ I'm a Front-End Developer passionate about creating <b>interactive, clean, and r
 ### 💻 Projects 
 <p align="center">
   <a href="https://salmamahmoudd.github.io/E-Commerce/" title="E-Commerce">
-    <img src="https://img.shields.io/badge/E--Commerce-Live-green?style=for-the-badge&logo=shopify&logoColor=white" />
+    <img src="https://img.shields.io/badge/E--Commerce-Live-green?style=for-the-badge&logoColor=white" />
   </a>
 
   <a href="https://salmamahmoudd.github.io/Restaurant/" title="Restaurant">
-    <img src="https://img.shields.io/badge/Restaurant-Live-blueviolet?style=for-the-badge&logo=Restaurant&logoColor=white" />
+    <img src="https://img.shields.io/badge/Restaurant-Live-blueviolet?style=for-the-badge&logoColor=white" />
   </a>
 
   <a href="https://salmamahmoudd.github.io/Flower-Shop/" title="Flower Shop">
-    <img src="https://img.shields.io/badge/Flower%20Shop-Live-orange?style=for-the-badge&logo=flower&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flower%20Shop-Live-orange?style=for-the-badge&logoColor=white" />
   </a>
 </p>
