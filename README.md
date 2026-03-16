@@ -1,5 +1,5 @@
 <h1>
-  Hi There I'm Salma Mahmoud 
+  Hi, I'm Salma Mahmoud 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
